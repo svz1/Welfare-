@@ -1,0 +1,5 @@
+{
+  "name": "Photo Layout Automator",
+  "description": "A bulk image processing tool that automatically arranges uploaded photos into a specialized 5-image sheet layout, perfect for portfolios or proof sheets.",
+  "requestFramePermissions": []
+}
